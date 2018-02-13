@@ -5,8 +5,6 @@
  * This class implements the WordStore interface and
  * acts as a bridge between the test code and the hash table.
  * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-package adsoofmini; // REMOVE
-
 class WordStoreImp implements WordStore {
 
     HashTable h = new HashTable();  // Creates a hash table specific to the WordStoreImp object
