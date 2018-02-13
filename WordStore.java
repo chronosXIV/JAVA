@@ -1,5 +1,3 @@
-package adsoofmini;
-
 interface WordStore {
     
     public void add(String word);
