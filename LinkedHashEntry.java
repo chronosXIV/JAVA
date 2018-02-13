@@ -1,5 +1,3 @@
-package adsoofmini; // REMOVE
-
 /** - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  * Author: Elif Sebnem Cudi
  * Last Updated: 10/12/2017
