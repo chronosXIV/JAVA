@@ -7,7 +7,6 @@
  * lists containing values with the same hash. The information stored is 
  * a string, and the amount of times it was added to the hash table.
  * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-package adsoofmini; // REMOVE
 
 public class HashTable {
 
