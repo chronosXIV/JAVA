@@ -1,5 +1,3 @@
-package adsoofmini;
-
 import java.util.*;
 
 class WordTest2 {
